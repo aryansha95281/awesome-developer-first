@@ -269,6 +269,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
+* [Video Calling App](https://videocalling.app) - Tool for developers and Product Managers to Host intelligent, intuitive and much better meetings.
 
 ## Misc
 *Different products that probably don't have a category.*
